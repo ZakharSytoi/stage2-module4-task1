@@ -106,7 +106,7 @@ public class Employee {
             return this;
         }
 
-        public Employee getEmployee(){
+        public Employee build(){
             return employee;
         }
     }
